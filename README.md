@@ -2,7 +2,8 @@
 ## Installation and Configuration Jenkins on Ubuntu 22.04.x: 
 #
 #### 
-    git clone https://github.com/SumonPaul18/nfs-ubuntu.git
-    chmod +x -R nfs-ubuntu/install-nfs-ubuntu.sh
-    . nfs-ubuntu/install-nfs-ubuntu.sh
+    git clone https://github.com/SumonPaul18/InstallJenkinsOnUbuntu.git
+    chmod +x -R InstallJenkinsOnUbuntu/InstallJenkinsOnUbuntu.sh
+    . InstallJenkinsOnUbuntu/InstallJenkinsOnUbuntu.sh
+    systemctl status jenkins
 #### 
